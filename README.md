@@ -34,7 +34,7 @@
     1. `A=B=C`
     2. `A=B и A!=C`;`A=C и A!=B`,`C=B и A!=C`
     3. `A!=B!=C`
-    4. `A`<sup>2</sup>+B<sup>2</sup>=C<sup>2</sup>`;`A<sup>2</sup>+C<sup>2</sup>=B<sup>2</sup>`;`C<sup>2</sup>+B<sup>2</sup>=A<sup>2</sup>`
+    4. `A`<sup>2</sup>+`B`<sup>2</sup>=`C`<sup>2</sup>;`A`<sup>2</sup>+`C`<sup>2</sup>=`B`<sup>2</sup>;`C`<sup>2</sup>+`B`<sup>2</sup>=`A`<sup>2</sup>
 
 ### 2. Входные и выходные данные
 
